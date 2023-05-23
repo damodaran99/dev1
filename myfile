@@ -1,4 +1,10 @@
 fourth line
 fifth line
 sixth line
+<<<<<<< HEAD
+=======
+seventh line
+eight line
+nineth line
+>>>>>>> 3b57e09 (eighth commit)
 
